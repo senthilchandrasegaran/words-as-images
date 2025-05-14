@@ -1,6 +1,6 @@
-# Computational text analysis for library data: 2024
+# Words as Images : A (very brief) workshop on visualizing and exploring text
 
-Jupyter Notebooks accompanying the introduction to computational text analysis given as part of the IDE Academy on visualizing library data at the Industrial Design Engineering Master's Programme at TU Delft.
+Jupyter Notebooks accompanying the introduction to computational text analysis given as part of the IDE Academy on visualizing text data at the Industrial Design Engineering Master's Programme at TU Delft.
 
 #### Note:
 Notebooks currently have minimal explanation as this is a work in progress and meant to accompany the lecture presentations.
